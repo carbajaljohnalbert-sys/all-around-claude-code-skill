@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "plugins": {
+    "ui-ux-pro-max@ui-ux-pro-max-skill": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\jac23\\.claude\\plugins\\cache\\ui-ux-pro-max-skill\\ui-ux-pro-max\\2.5.0",
+        "version": "2.5.0",
+        "installedAt": "2026-06-13T10:12:17.356Z",
+        "lastUpdated": "2026-06-13T10:12:17.356Z",
+        "gitCommitSha": "b7e3af80f6e331f6fb456667b82b12cade7c9d35"
+      }
+    ],
+    "superpowers@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\jac23\\.claude\\plugins\\cache\\claude-plugins-official\\superpowers\\5.1.0",
+        "version": "5.1.0",
+        "installedAt": "2026-06-13T15:54:19.912Z",
+        "lastUpdated": "2026-06-13T15:54:19.912Z",
+        "gitCommitSha": "6fd4507659784c351abbd2bc264c7162cfd386dc"
+      }
+    ],
+    "context7@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\jac23\\.claude\\plugins\\cache\\claude-plugins-official\\context7\\1ea891313261",
+        "version": "1ea891313261",
+        "installedAt": "2026-06-13T16:09:18.536Z",
+        "lastUpdated": "2026-06-13T16:09:18.536Z",
+        "gitCommitSha": "1ea8913132611eb176df69cc1fd7b416f0c21f49"
+      }
+    ],
+    "skill-creator@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\jac23\\.claude\\plugins\\cache\\claude-plugins-official\\skill-creator\\1ea891313261",
+        "version": "1ea891313261",
+        "installedAt": "2026-06-13T16:10:09.841Z",
+        "lastUpdated": "2026-06-13T16:10:09.841Z",
+        "gitCommitSha": "1ea8913132611eb176df69cc1fd7b416f0c21f49"
+      }
+    ]
+  }
+}
